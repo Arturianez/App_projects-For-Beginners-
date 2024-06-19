@@ -1,1 +1,1 @@
-<img src="./Screenshot.png">
+<img src="./img/Screenshot.png">
